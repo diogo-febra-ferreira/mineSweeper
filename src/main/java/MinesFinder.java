@@ -7,6 +7,8 @@ import java.util.logging.Logger;
 public class MinesFinder extends JFrame {
 
     private JPanel painelPrincipal;
+    private JPanel painelOeste;
+    private JPanel PainelCentro;
     private JButton jogoFacilButton;
     private JButton jogoMedioButton;
     private JButton jogoDificilButton;
